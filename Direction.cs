@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SailboatRPP { 
+namespace Boats { 
         /// <summary>
         /// Направление перемещения
         /// </summary>
